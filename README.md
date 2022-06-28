@@ -4,7 +4,7 @@ This project aims to assist users of fashion e-commerce when they want to upload
 # Technologies used
 Python (TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Streamlit), Google Colab
 
-#Illustration
+# Illustration
 ![alt text](https://github.com/cindysuyitno/Fashion-Object-Classification/blob/main/screenshoot1.jpg)
 ![alt text](https://github.com/cindysuyitno/Fashion-Object-Classification/blob/main/screenshoot2.jpg)
 
