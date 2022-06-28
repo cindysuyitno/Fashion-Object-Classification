@@ -8,5 +8,5 @@ Python (TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Streamlit), Google Colab
 ![alt text](https://github.com/cindysuyitno/Fashion-Object-Classification/blob/main/screenshoot1.jpg)
 ![alt text](https://github.com/cindysuyitno/Fashion-Object-Classification/blob/main/screenshoot2.jpg)
 
-# Conclusion and Suggestions from the Author
+# Conclusion and Suggestions from the Author 
 This project enables a simple Sequential model that has been successfully trained to predict 5 fashion object classifications: T-shirt, bag, dress,
