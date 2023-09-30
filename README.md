@@ -4,6 +4,13 @@ This project aims to assist users of fashion e-commerce when they want to upload
 # Technologies used
 Python (TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Streamlit), Google Colab
 
+## Table of Content:
+### Data Collection:
+  - Sources: Google
+  - Google scrapping 5 clothe categories: T-shirt, Bag, Dress, Shoes, Trousers
+### Data Modelling:
+  - Sequential model with Adam optimizer
+
 # Illustration
 ![alt text](https://github.com/cindysuyitno/Fashion-Object-Classification/blob/main/illustration1.jpg)
 ![alt text](https://github.com/cindysuyitno/Fashion-Object-Classification/blob/main/illustration2.jpg)
